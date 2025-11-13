@@ -1,11 +1,15 @@
-# RubiBot
+# RubiBot 🤖
 
-<div align="center">
+یک اپلیکیشن فوق‌العاده با قابلیت‌های پیشرفته
 
-## دانلود اپلیکیشن
+## 📲 دانلود آخرین نسخه
 
-<a href="https://github.com/Daniyel-Vanguard/RubiBot/releases/download/v1.0.0/RubiBot.apk" download>
-  <img src="https://img.shields.io/badge/📲_Download_APK_v1.0.0-007AFF?style=for-the-badge&logo=android&logoColor=white&labelColor=007AFF&color=white" alt="Download APK" style="border-radius: 12px;"/>
-</a>
+[![Download APK](https://img.shields.io/badge/Download-RubiBot_v1.0.0-007AFF?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Daniyel-Vanguard/RubiBot/releases/download/v1.0.0/RubiBot.apk)
 
-</div>
+## ✨ ویژگی‌ها
+- ✅ رابط کاربری مدرن
+- ✅ عملکرد سریع
+- ✅ امنیت بالا
+- ✅ پشتیبانی از آخرین استانداردها
+
+📦 **حجم فایل:** حدود ۱۵ مگابایت
